@@ -2,7 +2,7 @@ version: "3"
 
 services:
   web:
-    build: .
+    build: ./backend
     command: nodemon -L
     volumes:
       - ./backend:/code
@@ -16,4 +16,4 @@ services:
       - db-data:/var/db/data
 
 volumes:
-  db-data
+  db-data:
