@@ -22,7 +22,7 @@ $ docker-compose up
 
 ## Use Cases
 
-- customer go to front end website
+- customer goes to front end website
 - customer orders a drink
-- payment received and custome is rewarded with coffeebucks tokens
-- customer can redeem coffeebucks tokens to order
+- payment received and customer is rewarded with coffeebucks tokens
+- customer can redeem coffeebucks tokens to order mode drinks
