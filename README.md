@@ -9,8 +9,7 @@ This project demonstrates how a general retailer  can utilize blockchain to have
 
 ### Prerequisites
 
-docker version ^17.12.0
-docker-compose version ^1.18.0
+docker version ^17.12.0 and docker-compose version ^1.18.0
 
 ### How to Run
 
